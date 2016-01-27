@@ -1,0 +1,1 @@
+["16362517618", {"Color Space": "Uncalibrated", "JFIFVersion": "1.01", "X-Resolution": "350", "Y-Resolution": "350", "Exif Version": "0230", "Components Configuration": "Y, Cb, Cr, -", "YCbCr Positioning": "Centered", "Flashpix Version": "0100", "Resolution Unit": "inches"}]

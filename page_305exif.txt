@@ -1,0 +1,2 @@
+["19032612034", {"Orientation": "Horizontal (normal)", "Color Space": "sRGB", "IPTCDigest": "d41d8cd98f00b204e9800998ecf8427e", "JFIFVersion": "1.01", "X-Resolution": "72", "Y-Resolution": "72", "Resolution Unit": "inches"}]
+["19467423768", {}]

@@ -1,0 +1,1 @@
+["18185024316", {"JFIFVersion": "1.01", "X-Resolution": "1", "Y-Resolution": "1", "Resolution Unit": "None"}]

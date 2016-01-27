@@ -1,0 +1,2 @@
+["16691123976", {"Measurement Geometry": "Unknown (0)", "Measurement Flare": "0.999%", "Viewing Cond Surround": "3.92889 4.07439 3.36179", "Viewing Cond Illuminant": "19.6445 20.3718 16.8089", "Measurement Backing": "0 0 0", "JFIFVersion": "1.01", "X-Resolution": "300", "Y-Resolution": "300", "Measurement Observer": "CIE 1931", "Viewing Conditions Illuminant Type": "D50", "Measurement Illuminant": "D65", "Resolution Unit": "inches"}]
+["16506423967", {"JFIFVersion": "1.01", "X-Resolution": "300", "Y-Resolution": "300", "Resolution Unit": "inches"}]

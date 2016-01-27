@@ -1,0 +1,2 @@
+["18995649968", {"APP14 Flags1": "(none)", "APP14 Flags0": "[14], Encoded with Blend=1 downsampling", "Quality": "100%", "Color Transform": "YCbCr", "DCTEncode Version": "100"}]
+["19183214875", {"APP14 Flags1": "(none)", "APP14 Flags0": "[14], Encoded with Blend=1 downsampling", "Quality": "100%", "Color Transform": "YCbCr", "DCTEncode Version": "100"}]

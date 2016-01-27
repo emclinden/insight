@@ -1,0 +1,2 @@
+["15978400648", {"Thumbnail Length": "9988", "Orientation": "Horizontal (normal)", "Color Space": "sRGB", "IPTCDigest": "d41d8cd98f00b204e9800998ecf8427e", "Thumbnail Offset": "298", "X-Resolution": "72", "Y-Resolution": "72", "Exif Version": "0221", "Scene Capture Type": "Standard", "Components Configuration": "Y, Cb, Cr, -", "YCbCr Positioning": "Centered", "Compression": "JPEG (old-style)", "Flashpix Version": "0100", "Resolution Unit": "inches"}]
+["15969343390", {"JFIFVersion": "1.01", "X-Resolution": "1", "Y-Resolution": "1", "Resolution Unit": "None"}]

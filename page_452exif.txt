@@ -1,0 +1,1 @@
+["16816209290", {"JFIFVersion": "1.01", "X-Resolution": "72", "Y-Resolution": "72", "Resolution Unit": "inches"}]

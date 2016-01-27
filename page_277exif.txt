@@ -1,0 +1,2 @@
+["19383183604", {}]
+["19382439973", {"Original Transmission Reference": "ygaItNTS6wxFuUQM3DTB", "JFIFVersion": "1.02", "X-Resolution": "1", "Special Instructions": "FBMD01000abf030000452800000d490000d4500000e5570000fb6900005ea6000038af00004ab90000b8c20000e3320100", "Y-Resolution": "1", "Resolution Unit": "None"}]

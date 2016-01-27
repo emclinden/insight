@@ -1,0 +1,1 @@
+["17194866688", {"Color Transform": "YCbCr", "APP14 Flags1": "(none)", "APP14 Flags0": "[14], Encoded with Blend=1 downsampling", "JFIFVersion": "1.02", "X-Resolution": "100", "Y-Resolution": "100", "DCTEncode Version": "100", "Quality": "100%", "Resolution Unit": "None"}]
